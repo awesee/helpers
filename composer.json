@@ -1,0 +1,18 @@
+{
+    "name": "openset/helpers",
+    "description": "Helpers for php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Openset",
+            "email": "openset.wang@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/functions.php"
+        ]
+    }
+}
