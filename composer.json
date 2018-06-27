@@ -12,7 +12,8 @@
     "require": {},
     "autoload": {
         "files": [
-            "src/functions.php"
+            "src/functions.php",
+            "src/array_helper.php"
         ]
     }
 }
